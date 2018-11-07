@@ -1,0 +1,54 @@
+Logistic Regression:
+
+Concatenation:
+Accuracy: 0.806
+Precision: 0.8485193621867881
+Recall: 0.745
+F1 Score: 0.7933972310969115
+
+Hadamard Product:
+Accuracy: 0.81975
+Precision: 0.8428954423592493
+Recall: 0.786
+F1 Score: 0.8134540750323416
+
+Sum:
+Accuracy: 0.78925
+Precision: 0.8251826869027543
+Recall: 0.734
+F1 Score: 0.7769251124636147
+
+Distance:
+Accuracy: 0.817
+Precision: 0.8291796469366562
+Recall: 0.7985
+F1 Score: 0.8135506877228731
+
+
+Random Forest:
+
+Concatenation:
+Accuracy: 0.83325
+Precision: 0.901264298615292
+Recall: 0.7485
+F1 Score: 0.8178093417099154
+
+Hadamard Product:
+Accuracy: 0.8315
+Precision: 0.8823529411764706
+Recall: 0.765
+F1 Score: 0.8194965184788431
+
+Sum:
+Accuracy: 0.827
+Precision: 0.8793503480278422
+Recall: 0.758
+F1 Score: 0.8141783029001074
+
+Distance:
+Accuracy: 0.81575
+Precision: 0.8577903682719547
+Recall: 0.757
+F1 Score: 0.8042496679946879
+
+
