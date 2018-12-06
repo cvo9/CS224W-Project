@@ -1,0 +1,18 @@
+Logistic Regression:
+
+node2vec Concatenation:
+Accuracy: 0.8464190981432361
+Precision: 0.8664705882352941
+Recall: 0.8071232876712329
+F1 Score: 0.8357446808510638
+
+
+Random Forest:
+
+node2vec Concatenation:
+Accuracy: 0.8416445623342175
+Precision: 0.9034165571616294
+Recall: 0.7534246575342466
+F1 Score: 0.8216313116223484
+
+
